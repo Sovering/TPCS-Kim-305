@@ -1,0 +1,68 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=C:\Users\Public\Documents\Altium\Projects\TestPCB_ovchar\TestPCB_ovchar.PrjPcb
+[Project2]
+ProjectPath=..\altium_imported\Imported 174 серия.lib\174 серия.LibPkg
+[Project3]
+ProjectPath=..\altium_imported\Imported 224 237 118 серия.lib\224 237 118 серия.LibPkg
+[Project4]
+ProjectPath=..\altium_imported\Imported 235 265 228 серия.lib\235 265 228 серия.LibPkg
+[Project5]
+ProjectPath=..\altium_imported\Imported Crystal Oscillator.lib\Crystal Oscillator.LibPkg
+[Project6]
+ProjectPath=..\altium_imported\Imported Diod.lib\Diod.LibPkg
+[Project7]
+ProjectPath=..\altium_imported\Imported Discrete Devices.lib\Discrete Devices.LibPkg
+[Project8]
+ProjectPath=..\altium_imported\Imported Discrete Vacuum Tube.lib\Discrete Vacuum Tube.LibPkg
+[Project9]
+ProjectPath=..\altium_imported\Imported General Devices.lib\General Devices.LibPkg
+[Project10]
+ProjectPath=..\altium_imported\Imported Knopka.lib\Knopka.LibPkg
+[Project11]
+ProjectPath=..\altium_imported\Imported L.lib\L.LibPkg
+[Project12]
+ProjectPath=..\altium_imported\Imported Miscellaneous Connectors.lib\Miscellaneous Connectors.LibPkg
+[Project13]
+ProjectPath=..\altium_imported\Imported Miscellaneous Devices.lib\Miscellaneous Devices.LibPkg
+[Project14]
+ProjectPath=..\altium_imported\Imported Optoelectronic Devices.lib\Optoelectronic Devices.LibPkg
+[Project15]
+ProjectPath=..\altium_imported\Imported RC.lib\RC.LibPkg
+[Project16]
+ProjectPath=..\altium_imported\Imported Simulation Control Statement.lib\Simulation Control Statement.LibPkg
+[Project17]
+ProjectPath=..\altium_imported\Imported Simulation Function Block.lib\Simulation Function Block.LibPkg
+[Project18]
+ProjectPath=..\altium_imported\Imported АЦП_ЦАП_СЧ.lib\АЦП_ЦАП_СЧ.LibPkg
+[Project19]
+ProjectPath=..\altium_imported\Imported диоды.lib\диоды.LibPkg
+[Project20]
+ProjectPath=..\altium_imported\Imported индикаторы.lib\индикаторы.LibPkg
+[Project21]
+ProjectPath=..\altium_imported\Imported ключи.lib\ключи.LibPkg
+[Project22]
+ProjectPath=..\altium_imported\Imported КРЕН.lib\КРЕН.LibPkg
+[Project23]
+ProjectPath=..\altium_imported\Imported микропроцессоры.lib\микропроцессоры.LibPkg
+[Project24]
+ProjectPath=..\altium_imported\Imported микросхемы  КМОП.lib\микросхемы  КМОП.LibPkg
+[Project25]
+ProjectPath=..\altium_imported\Imported микросхемы ТТЛ.lib\микросхемы ТТЛ.LibPkg
+[Project26]
+ProjectPath=..\altium_imported\Imported микросхемы ЭСЛ .lib\микросхемы ЭСЛ .LibPkg
+[Project27]
+ProjectPath=..\altium_imported\Imported МС интерфейса.lib\МС интерфейса.LibPkg
+[Project28]
+ProjectPath=..\altium_imported\Imported ОУ_ШИМ.lib\ОУ_ШИМ.LibPkg
+[Project29]
+ProjectPath=..\altium_imported\Imported полевые транз..lib\полевые транз..LibPkg
+[Project30]
+ProjectPath=..\altium_imported\Imported разъёмы.lib\разъёмы.LibPkg
+[Project31]
+ProjectPath=..\altium_imported\Imported реле.lib\реле.LibPkg
+[Project32]
+ProjectPath=..\altium_imported\Imported сборки РН12Б.lib\сборки РН12Б.LibPkg
+[Project33]
+ProjectPath=..\altium_imported\Imported транзисторы.lib\транзисторы.LibPkg
